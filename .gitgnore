@@ -1,0 +1,11 @@
+# Documentos
+*.doc
+*.docx
+*.pdf
+
+# Programação em C (Executáveis e Objetos)
+*.exe
+*.out
+*.o
+*.txt
+*.zip
